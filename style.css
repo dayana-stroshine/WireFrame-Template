@@ -1,0 +1,61 @@
+
+body{
+	width: 960px;
+	margin: 0 auto;
+	background-color: #777;	
+}
+
+header, nav, footer {
+	background-color: #ebebeb;
+	padding: 40px;
+	margin: 10px;
+	border: 1px solid black;
+	text-align: center;
+}
+
+section {
+	position: absolute;
+	background-color: #ebebeb;
+	padding: 10px;
+	margin: 10px;
+	border: 1px solid black;
+	text-align: center;
+	width: 495px;
+	height: 240px;
+	float: left;
+}
+
+aside {
+	background-color: #ebebeb;
+	padding: 10px;
+	margin: 10px;
+	border: 1px solid black;
+	text-align: center;
+	width: 380px;
+	height: 240px;
+	float: right;
+}
+
+article {
+	position: absolute;
+	background-color: #777;
+	padding: 10px;
+	margin: 0 auto;
+	border: 1px solid black;
+	width: 475px;
+	color: white;
+}
+
+h1, h2, h3, p {
+	background-color: #ebebeb;
+	padding: 20px;
+	color: black;
+	margin: 5px auto;
+}
+
+.clear {
+	clear: both;
+}
+
+
+
